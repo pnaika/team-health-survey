@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.bottom-button {
+  padding: 13px;
+  font-size: 18px;
+}
+
+.Pie-chart-dimensions {
+margin-left: 78%;
+top: -180px;
+}
+
+.Line-chart-dimensions {
+margin-top: -25%;
+}
+
+.Line-chart-dimensions > svg.recharts-surface {
+  margin-top: -300px;
+}
+
+.list-items {
+  font-size: 12px;
+}
+
+ul.list-items {
+  list-style-type: square;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
