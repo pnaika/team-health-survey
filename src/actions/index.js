@@ -2,9 +2,9 @@
  * action types
  */
 
-export const ADD_DATA = 'ADD_DATA'
-export const ADD_TEAM = 'ADD_TEAM'
-export const ADD_ATTRIBUTE = 'ADD_ATTRIBUTE'
+export const ADD_DATA = 'ADD_DATA';
+export const ADD_TEAM = 'ADD_TEAM';
+export const ADD_ATTRIBUTE = 'ADD_ATTRIBUTE';
 
 /*
  * action creators
